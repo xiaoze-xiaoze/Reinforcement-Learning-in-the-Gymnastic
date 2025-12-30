@@ -27,5 +27,5 @@ Reinforcement Learning in the Gymnastic/
 ```
 
 ```bash
-git clone https://github.com/xiaoze-xiaoze/reinforcement-learning-in-the-gymnastic.git
+git clone https://github.com/xiaoze-xiaoze/Reinforcement_Learning_in_the_Gymnastic.git
 ```
